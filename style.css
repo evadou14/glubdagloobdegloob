@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+#heading1{
+    font-size: 30px;
+    color: rgb(172, 83, 255);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+    top:0px;
+}
+.copyright_footer{
+    position:fixed;
+    color: white;
+    bottom: 0;
+    width:100%;
+    background-color: gray;
+    line-height: 3;
+    text-align:center;
+}
+canvas{
+    border: 5px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(255, 158, 174);
+}
